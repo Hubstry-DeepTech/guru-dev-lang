@@ -1,5 +1,12 @@
 # guru-dev-lang
 GuruDev – a multi-paradigm, semantically-rich programming language that fuses grammatical cases, literate computing and 5-D symbolic coordinates for seamless cross-language interoperability and next-generation AI storytelling.
+GuruDev is an experimental general-purpose language designed to transcend traditional paradigms.
+Grammatical-case syntax (VOC, NOM, ACU, DAT…) brings classical rhetoric into code.
+5-D GuruMatrix embeds ontology, hermeneutics and runtime context into every token.
+Triplex blocks couple code, context and cross-language variants for literate programming.
+Native interoperability lets you switch between Python, Rust, JS, SQL, R… at runtime.
+Educational & AGI-ready – built for EdTech, cybersecurity and symbolic AI pipelines.
+This MVP repo ships a lexer, parser, compiler (→ GuruByte), interpreter and Colab/Jupyter magic in under 2 k lines.
 # GuruDev Language – MVP for Global Pre-Seed
 
 A **multi-paradigm, interoperable programming language** inspired by grammatical cases, semiotics and literate computing.
